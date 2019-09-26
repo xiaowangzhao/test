@@ -1,4 +1,13 @@
 1a1111111aaaa111111111111111111111111
 2222222222222222222222222
-dev dev dev dev dev dev 
+dev dev dev dev dev dev
 999999999
+<<<<<<< HEAD
+999999999
+=======
+master master
+:dev devfenzhi1fenzhi1
+9999999999999999999999
+fengzhi1
+88888888888
+>>>>>>> fengzhi1
